@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392862986473",
+    "project_id": "blocphoneauth-1e9c3",
+    "storage_bucket": "blocphoneauth-1e9c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392862986473:android:878ef95f5c6c22206a4078",
+        "android_client_info": {
+          "package_name": "com.example.bloc_rohit_semriwal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392862986473-l58qi6m271bc3sd0hbfusm78vkrvib6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGdwvy82kyR9o4euV_wH5xzcw3IPpbao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392862986473-l58qi6m271bc3sd0hbfusm78vkrvib6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

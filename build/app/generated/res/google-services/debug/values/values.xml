@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">392862986473-l58qi6m271bc3sd0hbfusm78vkrvib6i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">392862986473</string>
+    <string name="google_api_key" translatable="false">AIzaSyDFGdwvy82kyR9o4euV_wH5xzcw3IPpbao</string>
+    <string name="google_app_id" translatable="false">1:392862986473:android:878ef95f5c6c22206a4078</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFGdwvy82kyR9o4euV_wH5xzcw3IPpbao</string>
+    <string name="google_storage_bucket" translatable="false">blocphoneauth-1e9c3.appspot.com</string>
+    <string name="project_id" translatable="false">blocphoneauth-1e9c3</string>
+</resources>
